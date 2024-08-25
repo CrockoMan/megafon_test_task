@@ -1,5 +1,7 @@
 # Megafon тестовое задание Python-разработчик 
 Тестовое задание
+![image](https://github.com/user-attachments/assets/9c35a456-9102-4045-bf88-cfbbcb264f8e)
+
 ##### Стек: Pyton
 
 Клонировать репозиторий и перейти в него в командной строке:
