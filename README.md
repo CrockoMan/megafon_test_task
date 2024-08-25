@@ -12,13 +12,9 @@ git clone git@github.com:CrockoMan/megafon_test_task.git
 ```
 cd megafon_test_task
 ```
-
+Синхронный вариант</br>
 Запустить сервер
 
-```
-python3 server.py
-```
-или
 ```
 python3 sync_server.py
 ```
@@ -26,11 +22,15 @@ python3 sync_server.py
 Запустить клиент
 
 ```
-python3 client.py
-```
-или
-```
 python3 sync_client.py
+```
+Асинхронный вариант </br>
+```
+python3 server.py
+```
+Запустить клиент
+```
+python3 client.py
 ```
 
 Автор: [К.Гурашкин](https://github.com/CrockoMan)
