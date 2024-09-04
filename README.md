@@ -1,7 +1,7 @@
 # Megafon тестовое задание Python-разработчик 
 ![image](https://github.com/user-attachments/assets/9c35a456-9102-4045-bf88-cfbbcb264f8e)
 
-##### Стек: Pyton
+##### Стек: Pyton 3.11
 
 Клонировать репозиторий и перейти в него в командной строке:
 
